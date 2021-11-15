@@ -1,1 +1,39 @@
-/* Write your CSS here! */
+#grey-body {
+ background-color: rgb(173, 165, 165);
+}
+
+body {
+ margin: 8px;
+ display: block;
+}
+
+h1 {
+ color:darkcyan;
+ margin-top: 100px;
+ margin-bottom: 50px;
+ margin-right: 150px;
+ margin-left: 80px;
+}
+
+q {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+p {
+ background-color: darkslategrey;
+ color:floralwhite; 
+}
+
+h2 { color:deeppink;}
+.pink { color: deeppink;}
+
+.funParagraph {
+ color: green;
+}
+
+#mainHeading {
+ color: red;
+}
